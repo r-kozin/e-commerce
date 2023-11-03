@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/r-kozin/e-commerce-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/r-kozin/e-commerce-client.git
